@@ -13,7 +13,7 @@
                     <div class="navbar-end">
                     <a class="navbar-item has-text-white" href="/">Home</a>
                     <a class="navbar-item has-text-white" href="/profile">Profile</a>
-                    <a class="navbar-item has-text-white" href="/doorprize">Doorprize deh</a>
+                    <a class="navbar-item has-text-white" href="/doorprize">Doorprize</a>
                     </div>
                 </div>
             </div>
