@@ -20,3 +20,11 @@ Route::get('/', function () {
 Route::get('/profile', function () {
     return view('profile');
 });
+
+Route::get('/doorprize', function () {
+    return view('doorprize');
+});
+
+Route::get('/prize/{id}', function($id){   
+    return view('prize', ['id' => $id]);
+});
